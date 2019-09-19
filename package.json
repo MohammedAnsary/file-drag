@@ -1,6 +1,6 @@
 {
   "name": "@gonfreecs/file-drag",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A simple file drag and drop tool with no dependencies",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MohammedAnsary/file-drag.git"
+    "url": "git+https://github.com/gonfreecs/file-drag.git"
   },
   "author": "Mohammed Elansary <ansary260@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MohammedAnsary/file-drag/issues"
+    "url": "https://github.com/gonfreecs/file-drag/issues"
   },
-  "homepage": "https://github.com/MohammedAnsary/file-drag#readme",
+  "homepage": "https://github.com/gonfreecs/file-drag#readme",
   "engines": {
     "node": ">=10.0.0",
     "npm": ">=6.0.0"
